@@ -1,0 +1,10 @@
+tutorial yang di pakai adalah :
+https://youtu.be/eWc6K76y55c?list=PLzz9vf6075V3O1PEk_c0b-I6UPkleJFSc
+https://youtu.be/i8zaFO7Gs0I?list=PLzz9vf6075V3O1PEk_c0b-I6UPkleJFSc
+https://youtu.be/eUGhxRutTrk?list=PLzz9vf6075V3O1PEk_c0b-I6UPkleJFSc
+https://youtu.be/eUGhxRutTrk?list=PLzz9vf6075V3O1PEk_c0b-I6UPkleJFSc&t=413
+https://youtu.be/eUGhxRutTrk?list=PLzz9vf6075V3O1PEk_c0b-I6UPkleJFSc&t=579
+
+
+referensi:
+https://github.com/vanilla/vanilla
